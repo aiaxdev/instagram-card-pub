@@ -1,8 +1,9 @@
 # Instagram Card Public Assets
 
-Topic: ChatGPT 앱 유용 활용
+Topic: ChatGPT 이렇게 쓰면 시간이 3배 줄어요
+Card count: 8
 
-이 저장소는 aiaxdev/instagram-card GitHub Actions가 생성한 인스타그램 캐러셀 카드 이미지를 공개 URL로 제공하는 public repository입니다.
+이 저장소는 새 캐러셀 게시 때마다 기존 cards 폴더를 삭제하고 새 이미지로 교체합니다.
 
 ## 파일 구조
 
@@ -15,6 +16,4 @@ cards/05.jpg
 cards/06.jpg
 cards/07.jpg
 cards/08.jpg
-cards/09.jpg
-cards/10.jpg
 ```

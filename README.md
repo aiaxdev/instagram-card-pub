@@ -1,20 +1,21 @@
-# Instagram Card Public Assets
+# Instagram Card Preview Assets
 
+Status: PREVIEW_ONLY
 Topic: ChatGPT Pro 이미지 생성 캐러셀 만들기 1분컷
 Card count: 10
-Run SHA: 9a30167900eb88793ac8db18408b508fd8833bea
+Run SHA: da6db53edc4ac0a66f72de2a918c143b9a7922e0
 
-최신 인스타그램 캐러셀 게시용 이미지입니다.
+아래 이미지를 확인하고 승인 후 별도 Instagram 게시 workflow를 실행합니다.
 
-```text
-cards/01.jpg
-cards/02.jpg
-cards/03.jpg
-cards/04.jpg
-cards/05.jpg
-cards/06.jpg
-cards/07.jpg
-cards/08.jpg
-cards/09.jpg
-cards/10.jpg
-```
+## Preview URLs
+
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/01.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/02.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/03.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/04.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/05.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/06.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/07.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/08.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/09.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0
+- https://raw.githubusercontent.com/aiaxdev/instagram-card-pub/main/cards/10.jpg?v=da6db53edc4ac0a66f72de2a918c143b9a7922e0

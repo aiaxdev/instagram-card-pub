@@ -1,8 +1,8 @@
 # Instagram Card Public Assets
 
-Topic: 제미나이 AI비서 100
+Topic: ChatGPT Pro 이미지 생성 캐러셀 만들기 1분컷
 Card count: 10
-Run SHA: c8882a208018cb06745848254b0890174a2fb941
+Run SHA: 9a30167900eb88793ac8db18408b508fd8833bea
 
 최신 인스타그램 캐러셀 게시용 이미지입니다.
 

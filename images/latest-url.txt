@@ -1,2 +1,0 @@
-This folder stores public images for Instagram upload.
-Latest image target: images/latest.jpg
